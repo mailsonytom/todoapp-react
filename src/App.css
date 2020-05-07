@@ -1,0 +1,38 @@
+.list {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+  
+.button{
+  background-color : rgb(123, 95, 226);
+  color : white;
+  font: inherit;
+  border: 1px solid rgb(231, 231, 240);
+  padding: 8px;
+  cursor: pointer;
+}
+
+.button:hover{
+  background-color : lightgreen;
+  color: black;
+}
+
+.container {
+  columns: 2 auto;
+}
+
+.box{
+width: 60%;
+margin: 16px auto;
+border: 1px solid #eee;
+box-shadow: 0 2px 3px #ccc;
+padding: 16px;
+text-align: center;
+}
